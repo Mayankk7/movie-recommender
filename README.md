@@ -22,3 +22,5 @@ To run the movie recommendation system, you need the following:
 - scikit-learn
 - nltk
 
+## Database 
+The database can be downloaded from : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
